@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH
+D Unpolarized capacitor, Horizontal
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CV
+D Unpolarized capacitor, Vertical
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP LH
+D Inductor, Horizontal
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP LV
+D Inductor, Vertical
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP RH
+D Resistor, Horizontal
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP RV
+D Resistor, Vertical
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library
