@@ -6,9 +6,21 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP CH_Small
+D Unpolarized capacitor, Horizontal, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
 $CMP CV
 D Unpolarized capacitor, Vertical
 K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CV_Small
+D Unpolarized capacitor, Vertical, small symbol
+K capacitor cap
 F ~
 $ENDCMP
 #
