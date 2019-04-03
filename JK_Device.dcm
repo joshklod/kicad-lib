@@ -12,6 +12,42 @@ K capacitor cap
 F ~
 $ENDCMP
 #
+$CMP CPH
+D Polarized capacitor, Horizontal
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CPV
+D Polarized capacitor, Vertical
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_Down
+D Polarized capacitor, Positive Down
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_Left
+D Polarized capacitor, Positive Left
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_Right
+D Polarized capacitor, Positive Right
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_Up
+D Polarized capacitor, Positive Up
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP CV
 D Unpolarized capacitor, Vertical
 K cap capacitor
